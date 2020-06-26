@@ -66,7 +66,7 @@ data['target'] = y
 #your work here
 ```
 
-#### Generate two confusion matrices for the training predictions and testing predictions
+#### Generate two confusion matrices, one each for the training predictions and testing predictions
 
 
 ```python
